@@ -80,4 +80,4 @@ let obj2 : obj1 = {
 
 obj = obj2
 
-obj = obj2 : obj1 = {name: "Ali", age: 20}
+// obj = obj2 : obj1 = {name: "Ali", age: 20}
