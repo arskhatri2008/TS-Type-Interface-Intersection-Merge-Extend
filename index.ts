@@ -41,7 +41,7 @@ let teach1 : teacher = {
     phone: "0345-6789"
 }
 
-let teach2 = {
+let teach2 : newTech = {
     name: "Musab",
     age: 25,
     gender: "Male",
